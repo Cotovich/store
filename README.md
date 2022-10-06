@@ -1,0 +1,1 @@
+Hi. This is my another attempt to create fully working store application.
